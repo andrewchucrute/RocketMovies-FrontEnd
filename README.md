@@ -1,4 +1,4 @@
-# RocketMovies
+# RocketMovies Front-END
 Aplicativo desenvolvido em um desafio durante o Stage 9 do Explorer da Rocketseat. <br>
 Ele foi pensado para salvar e organizar uma lista de filmes pelo usuário. <br> Cada filme é cadastrado, sendo preenchidas uma descrição do filme, você pode colocar tags e dar um número de 1 a 5 estrelas.
 
