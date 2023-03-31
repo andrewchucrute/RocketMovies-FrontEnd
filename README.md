@@ -1,3 +1,8 @@
+# RocketMovies
+Aplicativo desenvolvido em um desafio durante o Stage 9 do Explorer da Rocketseat. <br>
+Ele foi pensado para salvar e organizar uma lista de filmes pelo usuário. <br> Cada filme é cadastrado, sendo preenchidas uma descrição do filme, você pode colocar tags e dar um número de 1 a 5 estrelas.
+
+<br>
 
 ![image](https://user-images.githubusercontent.com/103382295/229241939-bc8e9ba2-4b48-4564-86ee-601f5fef464a.png)
 ![image](https://user-images.githubusercontent.com/103382295/229241980-1824a0a5-22c0-47a5-acb7-b262c58a65c7.png)
@@ -11,11 +16,7 @@
 
 
 
-# RocketMovies
-Aplicativo desenvolvido em um desafio durante o Stage 9 do Explorer da Rocketseat. <br>
-Ele foi pensado para salvar e organizar uma lista de filmes pelo usuário. <br> Cada filme é cadastrado, sendo preenchidas uma descrição do filme, você pode colocar tags e dar um número de 1 a 5 estrelas.
 
-<br>
 
 ## 🚀 Tecnologias
 Durante o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
